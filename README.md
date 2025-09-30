@@ -209,12 +209,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Wan Mohamad Hanis (NovusAevum)**  
-*Principal Software Engineer & AI Systems Architect*
+**Wan Mohamad Hanis Bin Wan Hassan (NovusAevum)**  
+*Polymath: Full-Stack Developer | AI Engineer | Performance Marketing | OSINT | Offensive Cybersecurity*
 
 - 🌐 GitHub: [@NovusAevum](https://github.com/NovusAevum)
 - 💼 LinkedIn: [Wan Mohamad Hanis](https://linkedin.com/in/wanmohamadhanis)
-- 📧 Email: hanis@novusaevum.com
+- 📧 Email: wmh2u@proton.me
 
 ---
 
