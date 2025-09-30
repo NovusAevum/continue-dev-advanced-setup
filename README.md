@@ -1,0 +1,1 @@
+# Continue.dev Advanced Setup\n\nEnterprise-grade AI development environment with AWS Bedrock MCP, Promptz integration, and autonomous capabilities.\n\n## Quick Start\n1. Set environment variables\n2. Copy configurations\n3. Install MCP servers\n4. Restart VS Code\n\nSee full documentation in README.md
